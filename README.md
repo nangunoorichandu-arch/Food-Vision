@@ -1,4 +1,4 @@
-# Food Vision — Pizza, Steak, or Sushi?
+# Food Vision - Pizza, Steak, or Sushi?
 
 A Gradio web app that classifies a food photo as **pizza**, **steak**, or **sushi** using a fine-tuned EfficientNet-B2 model. Deployable to [Render](https://render.com) out of the box.
 
